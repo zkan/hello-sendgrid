@@ -1,2 +1,1 @@
-# hello-sendgrid
-Hello, SendGrid!
+# Hello, SendGrid!
