@@ -21,5 +21,5 @@ from .views import index
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^sendgrid/', index, name='sendgrid'),
+    url(r'^$', index, name='sendgrid'),
 ]

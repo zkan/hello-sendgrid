@@ -10,8 +10,8 @@ def index(request):
     sg = sendgrid.SendGridAPIClient(
         apikey=os.environ.get('SENDGRID_API_KEY')
     )
-    from_email = Email('test@example.com')
-    to_email = Email('test@example.com')
+    from_email = Email('kan@prontomarketing.com')
+    to_email = Email('kan@prontomarketing.com')
     subject = 'Sending with SendGrid is Fun'
     content = Content(
         'text/plain',
