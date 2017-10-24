@@ -101,3 +101,4 @@ ENV/
 .mypy_cache/
 sendgrid.env
 *.sqlite3
+*.swp
