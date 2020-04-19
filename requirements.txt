@@ -1,4 +1,4 @@
-Django==1.11.6
+Django==1.11.28
 gunicorn==19.7.1
 python-http-client==3.0.0
 pytz==2017.2
